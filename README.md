@@ -4,8 +4,8 @@ This is a simple Java Swing implementation of Conway's Game of Life.
 
 ## How to run
 
-- Java Development Kit (JDK) must be installed.
-- Can use editors like VS code or IntelliJ IDEA.
+- Java Development Kit (JDK) must be installed [Can be downloaded here](https://www.oracle.com/java/technologies/downloads/).
+- Use editors like VS code or IntelliJ IDEA.
   
 ## How it works
 
