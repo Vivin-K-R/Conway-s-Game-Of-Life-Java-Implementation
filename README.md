@@ -1,4 +1,4 @@
-# Conway's Game of Life (Java)
+# Conway's Game of Life 
 
 This is a simple Java Swing implementation of Conway's Game of Life.
 
