@@ -2,6 +2,11 @@
 
 This is a simple Java Swing implementation of Conway's Game of Life.
 
+## How to run
+
+- Java Development Kit (JDK) must be installed.
+- Can use editors like VS code or IntelliJ IDEA.
+  
 ## How it works
 
 - It is a zero player game, so it starts with a random state (**alive** or **dead**) for each cell.
